@@ -18,7 +18,9 @@ export const AboutMe = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              Hi, I'm Ayush Dixit — a passionate developer and tech enthusiast who loves building intuitive digital experiences. Whether it's crafting responsive front-ends or solving complex problems with code, I thrive on turning ideas into reality.
+              Hi, I'm Ayush Dixit — a passionate developer and tech enthusiast who loves building 
+              intuitive digital experiences. Whether it's crafting responsive front-ends or solving 
+              complex problems with code, I thrive on turning ideas into reality.
             </p>
 
             <p className="text-muted-foreground">
@@ -52,7 +54,7 @@ export const AboutMe = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Data Structures and Algorithms</h4>
                   <p className="text-muted-foreground">
-                    Solving complex problems requiring comprehensive knowledge of vaious data Structures and algorithms;
+                    Solving complex problems requiring comprehensive knowledge of vaious data Structures and algorithms.
                   </p>
                 </div>
               </div>
